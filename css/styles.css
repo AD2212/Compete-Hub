@@ -1,0 +1,173 @@
+/*=========================nav bar================*/
+.mb-0{
+  padding-left: 10px;
+  margin-right: 50px;
+}
+.left-0{
+   padding-left: 0;
+}
+/*=========================carousel===================*/
+.carousel-size{
+   max-height: 350px;
+   border-radius: 30px;
+   padding-left:10px;
+   padding-right: 10px;
+
+}
+  /*=======================cards=====================*/
+  .card-size{
+     width:7cm;
+  }
+
+  .card-size:hover{
+     height: 6cm;
+     width: 7.5cm;
+     border-color: mediumslateblue;
+     border-width: 7px;
+  }
+ .card-img{
+   height: 3cm;
+   width: 2cm;
+ }
+/*=======================body======================*/
+.a{
+  text-decoration-color: white;
+}
+.heading{
+   font-size: 40px;
+   margin-top:2cm;
+   color: whitesmoke;
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.space{
+   padding-bottom: 1cm;
+}
+.center-card{
+   margin-left: 33.5%;
+}
+
+.display-4 {
+   text-decoration-line: underline;
+   color: rgb(5, 45, 97);
+font-size:1rem;
+
+}
+
+.jumbotron{
+  margin-top: -20px;
+}
+.jus{
+  text-align: justify;
+}
+.win{
+  color: #FFDF00;
+}
+.verticalLine {
+  border-left: dashed #FFDF00;
+  padding-left: 20px;
+}
+/*==========sign up section==================*/
+.sec-h1{
+   margin-top: 0;
+   color: floralwhite;
+	margin-right: 5%;
+	text-align: center;
+	font-size: 45px;
+
+}
+.sec-h2{
+	color: floralwhite;
+	margin-right: 5%;
+	text-align: center;
+	font-size: 30px;
+}
+.sec-edit{
+	margin: 0px;
+	padding:10px;
+	/* background-color: orangered; */
+}
+
+.sec{
+  align-content: center;
+  padding: 2px;
+}
+
+.btn-edit{
+	font-size: 30px;
+	/* position: relative; */
+   margin-right: 5%;
+   height: 40px;
+   width: 100px;
+}
+/*===============================filter=============================*/
+
+.filter-sec1{
+   background-color:mediumslateblue;
+   margin-top: 1cm;
+   padding: 10px;
+   text-align: center;
+   color: white;
+}
+
+/*========================footer===========================*/
+footer {
+	padding:20px;
+   background:mediumslateblue !important;
+   color:white
+}
+
+
+.sub-footer  {
+	background:#363636;
+   padding:30px;
+   color: floralwhite;
+   text-align: center;
+}
+
+footer h4 {
+	text-transform:uppercase;
+	text-shadow:none;
+	color:#fff;
+}
+
+.white{
+   color: whitesmoke;
+   margin-right: 10px;
+}
+
+.hr-1{
+   border-color: whitesmoke;
+}
+
+.hr-2{
+   border-color: whitesmoke;
+   margin-top: 45px;
+}
+
+.mobile{
+  margin-left: -1cm;
+}
+
+.footer-mid{
+   margin-top:2cm;
+   margin-left:-0.5cm;
+   position: relative;
+}
+
+.input-size{
+   width: 6cm !important;
+   height: 0.8cm !important;
+
+}
+
+.form-group{
+  padding: 5px;
+
+  width: 80%;
+}
+
+.link-color{
+color:white;
+}
+/*------------------------------------------------------*/

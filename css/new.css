@@ -1,0 +1,137 @@
+/*=========================nav bar================*/
+.mb-0{
+  padding-left: 10px;
+}
+/*=========================carousel===================*/
+.carousel-size{
+   max-height: 500px;
+}
+
+/*=======================body======================*/
+.a{
+  text-decoration-color: white;
+}
+.heading{
+   font-size: 40px;
+   margin-top:2cm;
+   color: whitesmoke;
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.space{
+   padding-bottom: 1cm;
+}
+.center-card{
+   margin-left: 33.5%;
+}
+
+.display-4 {
+   text-decoration-line: underline;
+   color: rgb(5, 45, 97);
+   padding-top: 40px;
+}
+
+.jumbo{
+   padding: auto;
+   text-align: center;
+   height: 80px;
+   background-color: #990beb;
+   width: 350px;
+   margin: auto;
+   margin-top: 1cm;
+   margin-bottom: 1cm;
+   border-radius: 50px;
+}
+
+
+/*==========sign up section==================*/
+.sec-h1{
+   margin-top: 0;
+   color: floralwhite;
+	margin-right: 5%;
+	text-align: center;
+	font-size: 45px;
+
+}
+.sec-h2{
+	color: floralwhite;
+	margin-right: 5%;
+	text-align: center;
+	font-size: 30px;
+}
+.sec-edit{
+	margin: 0px;
+	padding:10px;
+
+}
+.btn-edit{
+	font-size: 30px;
+	/* position: relative; */
+   margin-right: 5%;
+   height: 40px;
+   width: 100px;
+}
+/*===============================filter=============================*/
+.filter-sec{
+   background-color: blueviolet;
+   margin-top: 2cm;
+   padding: 1cm;
+   text-align: center;
+   color: white;
+}
+.filter-sec1{
+   background-color: blueviolet;
+   margin-top: 1cm;
+   padding: 1cm;
+   text-align: center;
+   color: white;
+}
+.filter-btns{
+   padding-top: 1cm;
+}
+
+
+/*========================footer===========================*/
+footer {
+	padding:20px;
+   background:blueviolet !important;
+   color:white
+}
+
+
+.sub-footer  {
+	background:#363636;
+   padding:30px;
+   color: floralwhite;
+   text-align: center;
+}
+
+footer h4 {
+	margin-bottom:30px;
+	text-transform:uppercase;
+	text-shadow:none;
+	font-weight:550;
+	color:#fff;
+}
+
+.mobile{
+  margin-left: -1cm;
+}
+
+.footer-mid{
+   margin-top:2cm;
+   margin-left:-0.5cm;
+   position: relative;
+}
+
+
+.form-group{
+  padding: 5px;
+
+  width: 80%;
+}
+
+.link-color{
+color:white;
+}
+/*------------------------------------------------------*/
